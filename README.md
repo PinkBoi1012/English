@@ -1,4 +1,4 @@
-Learning English 101:
+# Learning English 101:
 Xin chào các bạn, đây là post đầu tiên và cũng hy vọng là duy nhất nhằm mục tiêu tổng hợp ngắn gọn và súc tích nhất phương pháp luận về cách học Anh văn của mình.
 P/s: Mọi người ai có góp ý vui lòng cứ để lại comment. Mình sẽ đặt link toàn bộ kiến thức để mọi người có thể tham khảo.
 \*\*\*Link reading & download:
@@ -7,7 +7,7 @@ Download Ebook: https://b-ok.cc/
 Khẩu hình miệng: (https://mega.nz/#F!hg5klRIB!cnLoG75kXAlvC1FMcF2_RQ)
 Đề thi IELTS: (https://mega.nz/#!Yk40hTja!c-sV4pmVAQwS7k2vxSucjaOAtvKW7G3Rr7JKSkuoK7k)
 
-Nội dung:
+# Nội dung:
 
 1. Ngôn ngữ được hình thành như thế nào? Tại sao cần phải học ngôn ngữ chuẩn?
 2. Tại sao lại có các bài thi tiếng anh như IELTS/ TOEFL/ TOEIC? Có nên học các lớp luyện thi Tiếng anh hay không? Cách học tốt nhất?
@@ -16,7 +16,7 @@ Nội dung:
 
 Let's start:
 
-1. Ngôn ngữ được hình thành như thế nào? Tại sao cần phải học ngôn ngữ chuẩn?
+## 1. Ngôn ngữ được hình thành như thế nào? Tại sao cần phải học ngôn ngữ chuẩn?
 
 \*\*\*Khi các bạn thấy 1 đứa trẻ sơ sinh khóc, la hét, nó đang muốn điều gì?
 Đói? Đau? Nóng? Mệt? Ngứa ngáy? Bị ướt? Khó thở?
@@ -51,7 +51,7 @@ Nếu các bạn tiếp cận Tiếng Anh theo hướng này, thì mỗi lần b
 
 > > > Tiếng anh chuẩn sẽ là nền tảng để bạn học bất cứ vấn đề gì liên quan tới tiếng anh.
 
-2. Tại sao lại có các bài thi tiếng anh như IELTS/ TOEFL/ TOEIC? Có nên học các lớp luyện thi Tiếng anh hay không? Cách học tốt nhất?
+## 2. Tại sao lại có các bài thi tiếng anh như IELTS/ TOEFL/ TOEIC? Có nên học các lớp luyện thi Tiếng anh hay không? Cách học tốt nhất?
 
 \*\*\*Hãy hình dung các bài thi này như sau:
 
@@ -85,7 +85,7 @@ Nếu các bạn tiếp cận Tiếng Anh theo hướng này, thì mỗi lần b
 
 - TỰ HỌC & PRACTICE MAKE PERFECT !
 
-3. Phương pháp học từng kỹ năng?
+## 3. Phương pháp học từng kỹ năng?
 
 - Listening: Nghe bài đọc bằng tiếng anh và chép chính tả lại. Từ nào bạn không nghe được là từ bạn đã phát âm sai hoặc từ bạn không biết. Đó là từ bạn phải học (Ưu tiên có script để bạn còn so với bài bạn đã chép. Nguồn VD: audio book, audio news, song with lyrics, movie with subtitles…)
 - Reading: Hãy đọc cuốn sách này trước để biết cách (How to Read a Book - Mortimer J. Adley).
@@ -109,7 +109,7 @@ Các tiêu chuẩn này phải được cố định để:
 - Chỗ nào bạn nhớ bắt chước, âm có vẻ giống. Nếu quên, lại nghe phát âm sai.
 - Bạn sẽ không thể nói trơn tru được (Fluently) mà sẽ giống như bị cà lăm. Khẩu hình miệng để phát âm này được nghiên cứu để các bạn phát ra âm không rời rạc mà được nối với nhau thành chuỗi âm (do đó có tình trạng nối âm & biến âm)
 
-4. Đỉnh cao của ngôn ngữ?
+## 4. Đỉnh cao của ngôn ngữ?
 
 \*\*\*Từ định nghĩa ở phần 1:
 Language must be clear, concise for effective communication.
